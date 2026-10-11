@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Md Redwan Islam 👋
 
-<!--
-**md-redwan-islam/md-redwan-islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year BS Computer Science student at IMSciences, Peshawar.
 
-Here are some ideas to get you started:
+I'm building my Computer Science foundation through academic coursework while independently exploring cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+
+**Programming Fundamentals**
+- C++ and Python
+- Programming logic and problem-solving
+- Core Computer Science concepts
+
+**Cybersecurity**
+- Linux and command-line fundamentals
+- Computer networking
+- Security fundamentals
+- Ethical hacking and penetration testing
+
+## 🎯 Current Goals
+
+- Strengthen my programming fundamentals
+- Understand how computers and networks work
+- Develop practical cybersecurity skills
+- Practice in authorized security labs
+- Document my learning journey through notes and projects
+
+## 📂 My Learning Areas
+
+- Programming practice
+- Linux and networking notes
+- Cybersecurity learning resources
+- Hands-on lab write-ups as I progress
+
+## 🤝 Connect With Me
+
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/redwan-islam-rafin/)
+
+---
+
+*Learning the fundamentals, practicing consistently, and growing one step at a time.*
